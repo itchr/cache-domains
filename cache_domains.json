@@ -146,6 +146,12 @@
 			"name": "ragemp",
 			"description": "CDN for ragemp updates",
 			"domain_files": ["ragemp.txt"]
+		},
+		},
+				{
+			"name": "mail.ru",
+			"description": "CDN for ragemp updates",
+			"domain_files": ["mail.ru.txt"]
 		}
 	]
 }
