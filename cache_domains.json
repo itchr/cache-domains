@@ -122,33 +122,32 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
 		},
-				{
+		{
 			"name": "4game",
 			"description": "CDN 4game.ru",
 			"domain_files": ["4game.txt"]
 		},
-				{
+		{
 			"name": "caliber",
 			"description": "CDN for caliber updates",
 			"domain_files": ["caliber.txt"]
 		},
-				{
+		{
 			"name": "lesta",
 			"description": "CDN for lesta updates",
 			"domain_files": ["lesta.txt"]
 		},
-				{
+		{
 			"name": "nextrp",
 			"description": "CDN for nextrp updates",
 			"domain_files": ["nextrp.txt"]
 		},
-				{
+		{
 			"name": "ragemp",
 			"description": "CDN for ragemp updates",
 			"domain_files": ["ragemp.txt"]
 		},
-		},
-				{
+		{
 			"name": "mail.ru",
 			"description": "CDN for ragemp updates",
 			"domain_files": ["mail.ru.txt"]
